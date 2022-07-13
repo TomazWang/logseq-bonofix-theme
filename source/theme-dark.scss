@@ -76,11 +76,11 @@
     }
     .marker-switch {
       color: var(--ls-primary-text-color);
-      background: #444;
+      background: var(--ls-quaternary-background-color);
       &:hover {
         opacity: 1;
       }
-    }
+    }l
     svg.add-button > .circle {
       fill: var(--ls-block-bullet-color, #394b59);
     }
